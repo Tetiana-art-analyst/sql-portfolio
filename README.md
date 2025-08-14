@@ -1,2 +1,3 @@
-# sql-portfolio
-Advanced SQL projects demonstrating database analysis and design skills
+SQL Portfolio Repository Structure
+Add comprehensive SQL portfolio documentation
+
